@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas but everyone calls me Niiquito!</h1>
 - I’m currently learning bootstrap, JavaScript, PHP
 <div align="center">
- <img src = "![Ry6p](https://user-images.githubusercontent.com/91030374/189032905-faa641af-b0c8-4345-9854-924052725b58.gif)"/>
+ <img src = "https://user-images.githubusercontent.com/91030374/189032905-faa641af-b0c8-4345-9854-924052725b58.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
