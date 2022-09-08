@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolas but everyone calls me Niiquito!</h1>
 - I’m currently learning bootstrap, JavaScript, PHP
 <div align="center">
- <img src = "https://gifer.com/es/Ry6p">
+ <img src = "https://user-images.githubusercontent.com/91030374/189032825-cb01f29f-dc32-4da9-984a-f9b10a3ef185.gif)">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicol%c3%a1s-antunez-8094aa1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicol%c3%a1s-antunez-8094aa1b9/" height="30" width="40" /></a>
