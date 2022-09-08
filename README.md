@@ -2,8 +2,9 @@
 
 <div align="center">
  <img src = "https://user-images.githubusercontent.com/91030374/189032905-faa641af-b0c8-4345-9854-924052725b58.gif"/>
-- I’m currently learning bootstrap, JavaScript, PHP
+
 <h3 align="left">Connect with me:</h3>
+ - I’m currently learning bootstrap, JavaScript, PHP
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicol%c3%a1s-antunez-8094aa1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicol%c3%a1s-antunez-8094aa1b9/" height="30" width="40" /></a>
 <a href="https://fb.com/niiquito.antunez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niiquito.antunez" height="30" width="40" /></a>
