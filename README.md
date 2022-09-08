@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-antunez-8094aa1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicol%c3%a1s-antunez-8094aa1b9/" height="30" width="40" /></a>
 <a href="https://fb.com/niiquito.antunez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niiquito.antunez" height="30" width="40" /></a>
 <a href="https://instagram.com/niiquit0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niiquit0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uckbehyxjyfa--sliljh9f4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckbehyxjyfa--sliljh9f4w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKBEHYxJyfA--SLIlJh9f4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckbehyxjyfa--sliljh9f4w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
